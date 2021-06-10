@@ -1,0 +1,8 @@
+{
+	"menu.game": "",
+	"gameMode.survival": "§cSurvival Mode§r",
+	"gameMode.creative": "§aCreative Mode§r",
+	"gameMode.adventure": "§6Adventure Mode§r",
+	"gameMode.spectator": "§bSpectator Mode§r",
+	"selectWorld.cheats": "§dCheats§r",
+}
